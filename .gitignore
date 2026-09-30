@@ -1,0 +1,8 @@
+.DS_Store
+*.fastq
+*.fa
+*.fai
+*.bam
+*.bai
+*.sam
+*.gff3
